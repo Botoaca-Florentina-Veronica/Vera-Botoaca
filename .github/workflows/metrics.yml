@@ -1,23 +1,15 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]  # Rulează zilnic la miezul nopții
-  workflow_dispatch:               # Permite rularea manuală
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # OPTIONS - alege ce vrei să afișezi:
-          plugin_lines: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          base: ""
           plugin_languages: yes
-          plugin_habits: yes
-          plugin_isocalendar: yes
-          plugin_stars: yes
-          plugin_repositories: yes
-          
-          # Configurare bază
-          base: header, activity, community
-          config_timezone: Europe/Bucharest
+          plugin_lines: yes
