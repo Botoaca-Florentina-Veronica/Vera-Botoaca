@@ -12,7 +12,7 @@
 
 ## 📊 Statisticile mele GitHub
 
-![Metrics](https://github.com/Botoaca-Florentina-Veronica/Vera-Botoaca/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Botoaca-Florentina-Veronica/Botoaca-Florentina-Veronica/blob/master/github-metrics.svg)
 
 </div>
 
