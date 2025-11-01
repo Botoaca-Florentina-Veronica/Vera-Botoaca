@@ -12,7 +12,7 @@
 
 ## 📊 Statisticile mele GitHub
 
-![Metrics](https://github.com/Botoaca-Florentina-Veronica/Vera-Botoaca/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Botoaca-Florentina-Veronica/Botoaca-Florentina-Veronica/blob/master/metrics.svg)
 
 </div>
 
@@ -31,17 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Proiecte Highlight
-
-### **🎯 [Nume Proiect 1](https://github.com/Botoaca-Florentina-Veronica/proiect-1)**
-Descriere scurtă a proiectului - ce face și ce tehnologii folosește.
-
-### **🚀 [Nume Proiect 2](https://github.com/Botoaca-Florentina-Veronica/proiect-2)**
-Alt proiect interesant cu o descriere captivantă.
-
-### **💡 [Nume Proiect 3](https://github.com/Botoaca-Florentina-Veronica/proiect-3)**
-Al treilea proiect important din portofoliul tău.
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -57,13 +46,10 @@ Al treilea proiect important din portofoliul tău.
 - **🌐 Portfolio:** [botoaca-florentina-veronica.github.io](https://botoaca-florentina-veronica.github.io/)
 - **💼 LinkedIn:** [linkedin.com/in/botoaca-florentina-veronica](https://linkedin.com/in/botoaca-florentina-veronica)
 - **📧 Email:** [botoaca.florentina.veronica@example.com](mailto:botoaca.florentina.veronica@example.com)
-- **🐦 Twitter:** [@username](https://twitter.com/username)
 
 ---
 
 <div align="center">
-
-### 💫 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 ⭐ Din partea ta, [Botoaca-Florentina-Veronica](https://github.com/Botoaca-Florentina-Veronica)
 
