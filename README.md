@@ -6,8 +6,8 @@
 
 **💻 Developer Passionată | 🌟 În căutare continuă de noi provocări**
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://botoaca-florentina-veronica.github.io/)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/botoaca-florentina-veronica)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://vera-botoaca.netlify.app/)
+[![LinkedIn](https://www.linkedin.com/in/florentina-veronica-bo%C8%9Boac%C4%83-376374260/)
 [![Email](https://img.shields.io/badge/📧-Contact me-D14836?style=for-the-badge)](mailto:botoaca.florentina.veronica@example.com)
 
 ## 📊 Statisticile mele GitHub
