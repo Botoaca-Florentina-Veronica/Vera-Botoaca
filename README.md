@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://vera-botoaca.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/florentina-veronica-bo%C8%9Boac%C4%83-376374260/)
-[![Email](https://img.shields.io/badge/📧-Contact me-D14836?style=for-the-badge)](mailto:veraflorentina01@gmail.com)
 
 ## 📊 Statisticile mele GitHub
 
@@ -33,16 +32,23 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Botoaca-Florentina-Veronica&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Botoaca-Florentina-Veronica&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botoaca-FlorentinA-Veronica&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Botoaca-FlorentinA-Veronica&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
 <div align="center">
-
-⭐ Din partea ta, [Botoaca-Florentina-Veronica](https://github.com/Botoaca-Florentina-Veronica)
-
+[![Skyline](https://github-readme-skyline.vercel.app/api/Botoaca-Florentina-Veronica?theme=radical)](https://github.com/Botoaca-FlorentinA-Veronica)
 </div>
+
+---
