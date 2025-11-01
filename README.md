@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-[![Skyline](https://github-readme-skyline.vercel.app/api/Botoaca-Florentina-Veronica?theme=radical)](https://github.com/Botoaca-FlorentinA-Veronica)
+[![Skyline](https://github-readme-skyline.vercel.app/api/Botoaca-Florentina-Veronica?theme=radical)](https://github.com/Botoaca-Florentina-Veronica)
 </div>
 
 ---
