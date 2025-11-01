@@ -18,3 +18,10 @@ jobs:
           plugin_languages: yes
           plugin_lines: yes
           plugin_isocalendar: yes
+          plugin_stars: yes
+          plugin_repositories: yes
+          
+          config_timezone: Europe/Bucharest
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+
