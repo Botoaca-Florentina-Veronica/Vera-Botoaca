@@ -1,5 +1,3 @@
-![Metrics](https://github.com/Botoaca-Florentina-Veronica/Vera-Botoaca/blob/master/github-metrics.svg)
-
 <div align="center">
 
 # 👋 Bună! Sunt Florentina-Veronica Botoaca
@@ -12,7 +10,7 @@
 
 ## 📊 Statisticile mele GitHub
 
-![Metrics](https://github.com/Botoaca-Florentina-Veronica/Botoaca-Florentina-Veronica/blob/master/metrics.svg)
+![Metrics](https://github.com/Botoaca-Florentina-Veronica/Vera-Botoaca/blob/main/metrics.svg)
 
 </div>
 
