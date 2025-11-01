@@ -2,15 +2,15 @@
 
 # 👋 Bună! Sunt Florentina-Veronica Botoaca
 
-**💻 Developer Passionată | 🌟 În căutare continuă de noi provocări**
+**💻 Developer | 🌟 În căutare continuă de noi provocări**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://vera-botoaca.netlify.app/)
 [![LinkedIn](https://www.linkedin.com/in/florentina-veronica-bo%C8%9Boac%C4%83-376374260/)
-[![Email](https://img.shields.io/badge/📧-Contact me-D14836?style=for-the-badge)](mailto:botoaca.florentina.veronica@example.com)
+[![Email](https://img.shields.io/badge/📧-Contact me-D14836?style=for-the-badge)](veraflorentina01@gmail.com)
 
 ## 📊 Statisticile mele GitHub
 
-![Metrics](https://github.com/Botoaca-Florentina-Veronica/Vera-Botoaca/blob/main/metrics.svg)
+![Metrics](https://github.com/Botoaca-Florentina-Veronica/Botoaca-Florentina-Veronica/blob/main/metrics.svg)
 
 </div>
 
@@ -38,12 +38,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Botoaca-Florentina-Veronica&theme=radical)
 
 </div>
-
-## 📫 Let's Connect!
-
-- **🌐 Portfolio:** [botoaca-florentina-veronica.github.io](https://botoaca-florentina-veronica.github.io/)
-- **💼 LinkedIn:** [linkedin.com/in/botoaca-florentina-veronica](https://linkedin.com/in/botoaca-florentina-veronica)
-- **📧 Email:** [botoaca.florentina.veronica@example.com](mailto:botoaca.florentina.veronica@example.com)
 
 ---
 
