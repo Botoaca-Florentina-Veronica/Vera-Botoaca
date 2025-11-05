@@ -45,7 +45,3 @@
 </table>
 
 </div>
-
----
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Botoaca-Florentina-Veronica&label=Visitors&countColor=%23263759&style=for-the-badge)
----
