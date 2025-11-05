@@ -16,3 +16,7 @@ jobs:
           filename: metrics.svg
           base: header
           plugin_isocalendar: yes
+          plugin_people: yes
+          plugin_people_limit: 0  # Afișează toți vizitatorii
+          plugin_people_size: 28  # Dimensiunea avatarurilor
+          plugin_people_types: visitors  # Doar vizitatori
