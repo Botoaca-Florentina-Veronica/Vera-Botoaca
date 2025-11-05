@@ -45,7 +45,3 @@
 </table>
 
 </div>
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=Botoaca-Florentina-Veronica)
----
