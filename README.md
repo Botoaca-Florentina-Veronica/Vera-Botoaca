@@ -45,7 +45,3 @@
 </table>
 
 </div>
-
----
-![Metrics](https://raw.githubusercontent.com/Botoaca-Florentina-Veronica/Botoaca-Florentina-Veronica/main/metrics.svg)
----
