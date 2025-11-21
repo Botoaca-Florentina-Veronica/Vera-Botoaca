@@ -8,10 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/florentina-veronica-bo%C8%9Boac%C4%83-376374260/)
 [![Hobbiz](https://img.shields.io/badge/🧩-Hobbiz-0A66C2?style=for-the-badge)](https://hobbiz.netlify.app/)
 
-## 📊 Statisticile mele GitHub
-
-![Metrics](https://github.com/Botoaca-Florentina-Veronica/Botoaca-Florentina-Veronica/blob/main/metrics.svg)
-
 </div>
 
 ## 🛠️ Skills & Tehnologii
