@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Bună! Sunt Florentina-Veronica Botoaca
+# 👋 Hi! I'm Florentina-Veronica Botoaca
 
-**💻 Developer | 🌟 În căutare continuă de noi provocări**
+**💻 Developer | 🌟 Always looking to solve a problem, but in a fun way**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://vera-botoaca.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/florentina-veronica-bo%C8%9Boac%C4%83-376374260/)
@@ -10,9 +10,9 @@
 
 </div>
 
-## 🛠️ Skills & Tehnologii
+## 🛠️ Skills & Technologies
 
-### **💻 Limbaje de Programare**
+### **💻 Programming languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
